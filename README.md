@@ -41,7 +41,7 @@ Here are several links to help you get started:
 
 - Here is a live link to the project using Heroku:
 
-     [Please click here to view](www.com)
+     [Please click here to view](https://whispering-spire-26969.herokuapp.com/)
 
 ## Credits
 <a href="https://github.com/skyllarb/Fort-polio/graphs/contributors">
